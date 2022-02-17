@@ -1,0 +1,23 @@
+body {
+    background-color: #0400ff
+
+}
+
+#título {
+    text-align: center;
+    font-family: "Comic Sans MS";
+    font-size: 18px
+}
+
+#título_escondido {
+font-family: Arial;
+font-size: 18px;
+color: #ffffff;
+/*visibility: hidden*/
+display: none
+}
+#paragrafo {
+    font-family: verdana;
+    font-size: 12px;
+    font-weight: bold
+}
